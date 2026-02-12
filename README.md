@@ -29,14 +29,6 @@ TechVista is a modern website showcasing laptops, gadgets, and the latest in dig
 
 ---
 
-## Screenshots
-![Home Page](./images/home.png)  
-![Product Page](./images/product.png)  
-
-*Replace the paths with your actual image paths.*
-
----
-
 ## Installation
 1. Clone the repository:  
 `bash
